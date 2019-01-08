@@ -4691,7 +4691,7 @@ if (err) console.error(err)
 });
 })
 const sWlc = {}
-const premium = ['429972030092476437', '', '', '']
+const premium = ['489342754887827487', '', '', '']
 client.on('message', message => {
 var prefix = "#";
 if(message.channel.type === "dm") return;
@@ -4787,7 +4787,7 @@ client.on("guildMemberAdd", member => {
 
     })
 
-    const devs = ['429972030092476437'];
+    const devs = ['489342754887827487'];
 
 client.on('message', message => {
     let argresult = message.content.split(` `).slice(1).join(' ');
