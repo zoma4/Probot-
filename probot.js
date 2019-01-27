@@ -4787,7 +4787,7 @@ client.on("guildMemberAdd", member => {
 
     })
 
-    const devs = ['489342754887827487'];
+    const devs = ['512625982751113216'];
 
 client.on('message', message => {
     let argresult = message.content.split(` `).slice(1).join(' ');
